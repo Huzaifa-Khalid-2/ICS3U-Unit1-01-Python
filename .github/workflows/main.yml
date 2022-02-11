@@ -28,5 +28,3 @@ jobs:
           DEFAULT_BRANCH: main
 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-          # ICS3U-Intro-03-Python
